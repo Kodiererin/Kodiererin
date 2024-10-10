@@ -1,7 +1,4 @@
 # 🌟 Welcome to Kodiererin's GitHub Profile!
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Creative+Developer+%7C+Tech+Explorer;Welcome+to+My+Development+Journey!&font=Fira%20Code&center=true&width=440&height=45&color=redviolet&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
-</div>
 
 ---
 
